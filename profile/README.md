@@ -1,6 +1,6 @@
 # 🎶 SonataAI — AI Platform for Piano Learning
 
-📌 *Developed by Océane Kabasele, as part of a certifying project for the completion of a Master’s degree in Software Engineering (expected September 2025).*
+📌 *Developed by Océane Kabasele, as part of a certifying project for the completion of a Master’s degree in Software Engineering.*
 ⚠️ This is an academic, non-commercial project. **No external contributions are accepted.**
  
 ---
